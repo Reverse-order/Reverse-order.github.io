@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harry Liu / Homepage"
+title                    : "Harry / Homepage"
 title_separator          : "-"
 name                     : &name "Harry"
 description              : &description "personal description"
